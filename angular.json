@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "empProfile"
+    }
+  },
+  "defaultProject": "empProfile",
+  "cli": {
+    "analytics": false
+  }
 }
